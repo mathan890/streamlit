@@ -1,1 +1,2 @@
 streamlit
+snowflake-snowspark-python

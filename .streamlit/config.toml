@@ -1,9 +1,0 @@
-[connections.snowflake]
-account = "QTZNEWH-KSB92838"
-user = "mathan890"
-password = "Mesafe@2026vnr"
-role = "SYSADMIN"
-warehouse = "COMPUTE_WH"
-database = "SMOOTHIES"
-schema = "PUBLIC"
-client_session_keep_alive= true
